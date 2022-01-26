@@ -1,31 +1,31 @@
 {
-    "ficheros": [
-        {
-            "id": "1",
-            "descripcion": "Fichero 1",
-            "fecha": "08/09/2021",
-            "url": "https://www.tamps.cinvestav.mx/~vjsosa/clases/sd/sistemas_distribuidos_panorama.pdf"
-        },
-        {
-            "id": "2",
-            "descripcion": "Fichero 2",
-            "fecha": "08/09/2021",
-            "url": "https://www.ecorfan.org/handbooks/Ciencias%20de%20la%20Ingenieria%20y%20Tecnologia%20T-V/Articulo_3.pdf"
-        },
-        {
-            "id": "3",
-            "descripcion": "Fichero 3",
-            "fecha": "08/09/2021",
-            "url": "https://www.uv.mx/iiesca/files/2013/01/distribuidos1999-2000.pdf"
-        },
-        {
-            "id": "4",
-            "descripcion": "Fichero 4",
-            "fecha": "08/09/2021",
-            "url": "https://www.ctr.unican.es/asignaturas/is1/is1-t04-trans.pdf"
-        }
-    ],
-    "facultades": [
+  "ficheros": [
+    {
+      "id": "1",
+      "descripcion": "Fichero 1",
+      "fecha": "08/09/2021",
+      "url": "https://www.tamps.cinvestav.mx/~vjsosa/clases/sd/sistemas_distribuidos_panorama.pdf"
+    },
+    {
+      "id": "2",
+      "descripcion": "Fichero 2",
+      "fecha": "08/09/2021",
+      "url": "https://www.ecorfan.org/handbooks/Ciencias%20de%20la%20Ingenieria%20y%20Tecnologia%20T-V/Articulo_3.pdf"
+    },
+    {
+      "id": "3",
+      "descripcion": "Fichero 3",
+      "fecha": "08/09/2021",
+      "url": "https://www.uv.mx/iiesca/files/2013/01/distribuidos1999-2000.pdf"
+    },
+    {
+      "id": "4",
+      "descripcion": "Fichero 4",
+      "fecha": "08/09/2021",
+      "url": "https://www.ctr.unican.es/asignaturas/is1/is1-t04-trans.pdf"
+    }
+  ],
+  "facultades": [
     {
       "nombre": "Facultad de Ciencias Empresariales",
       "direccion": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
@@ -39,7 +39,7 @@
       "nombre": "Facultad de Ciencias de la Ingeniería",
       "direccion": "Campus 'Ingeniero Manuel Agustín Haz Álvarez', Av. Quito km. 1 1/2 vía a Santo Domingo de los Tsáchilas",
       "decano": "Ing. Washington Alberto Chiriboga Casanova, M.Sc.",
-      "contact": "facultadci@uteq.edu.ec",
+      "contacto": "facultadci@uteq.edu.ec",
       "logo": "https://i.ibb.co/BcZzynp/FCI.png",
       "latitud": -1.012593,
       "longitud": -79.470398
